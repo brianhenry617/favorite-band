@@ -1,9 +1,18 @@
-div.sidebar{
+.sidebar{
   float: right;
   background-color: pink;
   font-family: monospace;
   width: 35%
 }
+
+.box{
+  border: 4px brown;
+  margin: 2px ;
+  padding: 2.5px;
+  border-style: dashed;
+}
+
 body{
   background-image: url("https://media.pitchfork.com/photos/5929a47a5e6ef959693208a6/1:1/w_600/0b253d77.jpg");
+
 }
